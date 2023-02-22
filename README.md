@@ -31,7 +31,7 @@ and tell the person sitting next to you what your guess is.
 
    |                        | `str` | `list` | `deque` |
    | ---------------------- | ----- | ------ | ------- |
-   | `check_palindrome_1`   |  O(n) |  O(n)  |  O(n<sup>2</sup>|
+   | `check_palindrome_1`   |  O(n) |  O(n)  |  O(n<sup>2</sup>)|
    | `check_palindrome_2`   |  O(n) |  O(n)  |  O(n)   |
 
    **HINT:**
